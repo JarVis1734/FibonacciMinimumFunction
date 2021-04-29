@@ -1,4 +1,4 @@
-function fx = fibonn(x)
+function fx = fibonn(x) % Function name
 if x == 0
     fx = 1;
 elseif x == 1
